@@ -1,0 +1,22 @@
+
+body {
+  font-family: sans-serif;
+  background: #fffafc;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: #c2185b;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+main {
+  padding: 1rem;
+}
+section {
+  display: none;
+}
+section.active {
+  display: block;
+}
